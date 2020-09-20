@@ -19,7 +19,11 @@
         "cocur/slugify": "^4.0",
         "illuminate/config": "^8.0",
         "illuminate/database": "^8.0",
-        "illuminate/support": "^8.0"
+        "illuminate/support": "^8.0",
+        "illuminate/console": "^8.0",
+        "illuminate/contracts": "^8.0",
+        "illuminate/filesystem": "^8.0",
+        "laravel/legacy-factories": "^1.0"
     },
     "require-dev": {
         "limedeck/phpunit-detailed-printer": "^6.0",
