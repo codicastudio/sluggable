@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/sluggable",
+    "name": "codica-studio/sluggable",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/sluggable",
+    "homepage": "https://github.com/codica-studio/sluggable",
     "license": "MIT",
     "authors": [
         {
