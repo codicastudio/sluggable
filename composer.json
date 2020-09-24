@@ -1,5 +1,5 @@
 {
-    "name": "codica-studio/sluggable",
+    "name": "codicastudio/sluggable",
     "description": "A random Codica Studio package.",
 
     "homepage": "https://github.com/codicastudio/sluggable",
@@ -20,12 +20,11 @@
         "illuminate/support": "^8.0",
         "illuminate/console": "^8.0",
         "illuminate/contracts": "^8.0",
-        "illuminate/filesystem": "^8.0",
-        "laravel/legacy-factories": "^1.0"
+        "illuminate/filesystem": "^8.0"
     },
     "require-dev": {
         "limedeck/phpunit-detailed-printer": "^6.0",
-        "mockery/mockery": "^1.4.2",
+        "mockery/mockery": "^1.1",
         "orchestra/database": "^6.0",
         "orchestra/testbench": "^6.0",
         "phpunit/phpunit": "^9.0"
@@ -50,6 +49,6 @@
             ]
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
